@@ -9,3 +9,12 @@ p{
 span{
     color: green;
 }
+
+
+
+div.container social{
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+}
